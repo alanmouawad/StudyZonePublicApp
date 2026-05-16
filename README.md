@@ -2,7 +2,7 @@
 
 A high-performance, cross-platform desktop management system tailored for educational hubs, libraries, and co-working spaces. Designed to optimize facility tracking, automate administrative tasks, and provide secure session logging.
 
----
+--
 
 ## Key Features
 
