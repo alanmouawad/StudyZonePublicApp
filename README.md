@@ -35,10 +35,3 @@ To fully comply with modern operating system permission boundaries (preventing `
 ### Prerequisites
 * [.NET SDK 7.0 or higher](https://dotnet.microsoft.com/download)
 * Visual Studio Code (with *C# Dev Kit* Extension) or Visual Studio 2022.
-
-### Local Installation & Development Run
-
-1. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/StudyZoneManagerPro.git](https://github.com/YOUR_USERNAME/StudyZoneManagerPro.git)
-   cd StudyZoneManagerPro/studyzoneapp
